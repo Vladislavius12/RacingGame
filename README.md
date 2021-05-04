@@ -5,11 +5,9 @@
 <li>
 Дата 17.09.2020
 Название 
-<ul>
 1. Web Racing Game
-  2. Single
-    3. Racing
-<li>
+2. Single
+3. Racing
   
 Краткое описание и действия:
 ` "Racing Game" игра которая может быть встроена в сайт
