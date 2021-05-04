@@ -1,13 +1,13 @@
-# RacingGame
+### RacingGame
 Разработчик:
 <ul>
 Гудов Владислав
 <li>
-Дата 17.09.2020
-Название 
-1. Web Racing Game
-2. Single
-3. Racing
+# Дата 17.09.2020
+# Название 
+- Web Racing Game
+- Single
+- Racing
   
 Краткое описание и действия:
 ` "Racing Game" игра которая может быть встроена в сайт
